@@ -15,7 +15,8 @@ Telecom.
 
 ## Etapas do Projeto
 O projeto foi todo escrito em Python utilizando o Framework Spark no modo standalone.
-Primeiramente foi realizado transformações dos dados e Feature Selection
+Primeiramente foi realizado transformações dos dados e Feature Selection.
+
 Posteriormente um modelo de Classificação foi treinado com os dados e feito a avalição final.
 
 
