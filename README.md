@@ -1,5 +1,7 @@
 # ChurnOperadora-DSA
 
+**Projeto do curso Python com Spark da Formação Cientista de dados Data Science Academy**
+
 Customer Churn (ou Rotatividade de Clientes, em uma tradução livre)
 refere-se a uma decisão tomada pelo cliente sobre o término do relacionamento
 comercial. Refere-se também à perda de clientes. A fidelidade do cliente e a
